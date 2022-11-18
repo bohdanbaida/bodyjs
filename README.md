@@ -1,1 +1,1 @@
-This is BodyJS - simple JavaScript components driven frontend framework. 
+This is BodyJS - simple JavaScript web components driven frontend framework.
